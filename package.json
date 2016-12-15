@@ -9,7 +9,7 @@
   "author": "Michael Karliner",
   "license": "ISC",
   "bin": {
-    "snippet": "./index.js"
+    "gaevent": "./index.js"
   },
   "dependencies": {
     "commander": "^2.9.0",
