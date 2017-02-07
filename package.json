@@ -2,6 +2,10 @@
   "name": "@redsift/gaevent",
   "version": "1.0.0",
   "description": "A command line tool to send GA Events",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/redsift/gaevent"
+  },
   "main": "index.js",
   "scripts": {
     "test": "gaevent MyCategory MyEvent"
