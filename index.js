@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-var ua=require('universal-analytics')
-var program=require('commander')
+var ua = require('universal-analytics')
+var program = require('commander')
 
 
 program
